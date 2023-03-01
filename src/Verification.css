@@ -1,0 +1,45 @@
+.verification{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 30px;
+    padding-top: 80px;
+}
+
+.inputs{
+    display: flex;
+    gap: 0.7rem;
+}
+
+.verification input{
+    width: 60px;
+    height: 60px;
+    background-color: #F1F1F1;
+    border: none;
+    border-radius: 10px;
+}
+
+.verification button{
+    background: #1FC9FF;
+    color: white;
+    font-size: 1.1rem;
+    font-weight: 700;
+    font-family: 'Alef', sans-serif;
+
+}
+.verification button{
+    width: 80vw;
+    height: 8vh;
+    box-shadow: 0px 5px 3px -1px #00000038;
+    border: none;
+    border-radius: 12px;
+    margin-bottom: 1rem;
+}
+
+.verification .sing_in_button{
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+}

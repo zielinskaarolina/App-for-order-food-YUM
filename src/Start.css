@@ -1,0 +1,55 @@
+.start{
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-image: url('./images/shadow.png'); 
+}
+
+.man{
+    padding-top: 50px;
+    padding-bottom: 20px;
+    width: 200px;
+}
+
+.start_buttons{
+    display: flex;
+    flex-direction: column;
+    padding-top: 20px;
+    gap: 10px;
+}
+
+.start_buttons button {
+    width: 75vw;
+    height: 7vh;
+    border: none;
+    border-radius: 10px;
+    font-size: 1.1rem;
+    font-family: 'Alef', sans-serif;
+}
+
+button.blue{
+    background-color: #1FC9FF;
+    color: white;
+}
+
+button.gray{
+    background-color: #F1F1F1;
+    color: #969696;
+}
+
+.start_texts {
+    text-align: center;
+}
+.start_texts h1{
+    font-size: 2.3rem;
+}
+
+.start_texts p{
+    font-size: 1rem;
+    color: #C9C9C9;
+    letter-spacing: 2px;
+    padding: 10px 0;
+}
+

@@ -1,0 +1,65 @@
+.sign_in{
+   width: 100vw;
+   height: 100vh;
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+   gap: 1rem;
+   
+   
+}
+
+.header_img{
+    padding-top: 100px;
+    padding-left: 10px;
+    width: 400px;
+}
+
+.input-container input,
+.sign_in_buttons button{
+    width: 80vw;
+    height: 8vh;
+    box-shadow: 0px 5px 3px -1px #00000038;
+    border: none;
+    border-radius: 12px;
+    margin-bottom: 1rem;
+}
+
+.sign_in_buttons button{
+    background: #1FC9FF;
+    color: white;
+    font-size: 1.1rem;
+    font-weight: 700;
+    font-family: 'Alef', sans-serif;
+
+}
+
+.input-container input{
+    background: #F1F1F1;
+}
+
+.sing_in_button{
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+
+.sing_in_button p{
+    font-size: 1.2rem;
+    text-align: center;
+}
+
+.bold{
+    font-weight: 600;
+    padding-bottom: 5px;
+    font-size: 1.2rem;
+    padding-left: 5px;
+}
+
+.blue{
+    color: #1FC9FF;
+}
+
+.gray{
+    color: #C9C9C9;
+}
