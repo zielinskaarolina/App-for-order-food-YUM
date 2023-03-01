@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/zielinskaarolina/App-for-order-food-YUM.git/static/css/main.92612873.css",
+    "main.js": "/zielinskaarolina/App-for-order-food-YUM.git/static/js/main.7ce60482.js",
+    "static/media/shadow.png": "/zielinskaarolina/App-for-order-food-YUM.git/static/media/shadow.4fe1e8cd4f7fadbea46a.png",
+    "static/media/man2.png": "/zielinskaarolina/App-for-order-food-YUM.git/static/media/man2.8b72e738e55ec766dd5c.png",
+    "static/media/man1.png": "/zielinskaarolina/App-for-order-food-YUM.git/static/media/man1.5319c6720aefa1c14598.png",
+    "static/media/sushi1.png": "/zielinskaarolina/App-for-order-food-YUM.git/static/media/sushi1.b5633187172660ba10de.png",
+    "index.html": "/zielinskaarolina/App-for-order-food-YUM.git/index.html",
+    "main.92612873.css.map": "/zielinskaarolina/App-for-order-food-YUM.git/static/css/main.92612873.css.map",
+    "main.7ce60482.js.map": "/zielinskaarolina/App-for-order-food-YUM.git/static/js/main.7ce60482.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.92612873.css",
+    "static/js/main.7ce60482.js"
+  ]
+}
