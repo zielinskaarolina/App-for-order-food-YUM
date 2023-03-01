@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/App-for-order-food-YUM/static/css/main.a8789937.css",
+    "main.css": "/App-for-order-food-YUM/static/css/main.67f2fe9a.css",
     "main.js": "/App-for-order-food-YUM/static/js/main.a95dc25f.js",
     "static/media/shadow.png": "/App-for-order-food-YUM/static/media/shadow.4fe1e8cd4f7fadbea46a.png",
     "static/media/man2.png": "/App-for-order-food-YUM/static/media/man2.8b72e738e55ec766dd5c.png",
     "static/media/man1.png": "/App-for-order-food-YUM/static/media/man1.5319c6720aefa1c14598.png",
     "static/media/sushi1.png": "/App-for-order-food-YUM/static/media/sushi1.b5633187172660ba10de.png",
     "index.html": "/App-for-order-food-YUM/index.html",
-    "main.a8789937.css.map": "/App-for-order-food-YUM/static/css/main.a8789937.css.map",
+    "main.67f2fe9a.css.map": "/App-for-order-food-YUM/static/css/main.67f2fe9a.css.map",
     "main.a95dc25f.js.map": "/App-for-order-food-YUM/static/js/main.a95dc25f.js.map"
   },
   "entrypoints": [
-    "static/css/main.a8789937.css",
+    "static/css/main.67f2fe9a.css",
     "static/js/main.a95dc25f.js"
   ]
 }
